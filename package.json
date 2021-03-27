@@ -1,0 +1,20 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "import": "0.0.6",
+    "node-html-parser": "^1.1.13",
+    "request": "^2.88.0",
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {
+    "typegram": "^3.1.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
